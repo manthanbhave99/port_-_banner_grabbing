@@ -1,6 +1,6 @@
 ~~~~ Port & Banner Grabbing ~~~~~~~~~~~
 
-Port C=Scanning :
+Port Scanning :
   A port scan is a common technique hackers use to discover open doors or weak points in a network.
 Banner Grabbing :
   Banner grabbing is a technique used to gain information about a computer system on a network and the services running on its open ports.
